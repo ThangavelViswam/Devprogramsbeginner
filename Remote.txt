@@ -1,0 +1,12 @@
+THis is local repo
+a+b=c
+a=1
+b=2
+Addition
+A+b
+
+Substraction
+a-b
+
+multi
+1*b
