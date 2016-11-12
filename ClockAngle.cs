@@ -42,6 +42,7 @@ namespace RactangleAreacalc
             r1.display();
             Rectangle r2 = new Rectangle();
             r2.display();
+            Console.ReadKey();
         }
     }
 }
